@@ -114,9 +114,9 @@
 		<start-class>com.restcalculator.app.app</start-class>
 		
 		
-		<sonar.projectKey>megadev</sonar.projectKey>
+		<sonar.projectKey>megadev2</sonar.projectKey>
 		<sonar.organization>megadev</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>590537cdcd47f78d84f5d1fa8a09bda7925a6f70</sonar.login>
+		<sonar.login>0367c97891024fd681dc2e89ff9c303c274d4a90</sonar.login>
 	</properties>
 </project>
